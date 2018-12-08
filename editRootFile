@@ -1,0 +1,19 @@
+#How To Display Your Current User Name 
+$ whoami
+
+# Show current directory 
+$ pwd
+
+# to edit root files 
+# $ sudo chown your_user:root /path/to/file
+$ sudo chown swasthi:root /usr/local/lib/python3.6/site-packages/pycsp/parallel/ossocket.py
+
+# You may now edit this file using your normal GUI login.
+# Once you're done, remember to set it back
+# $ sudo chown root:root /path/to/file
+$ sudo chown root:root /usr/local/lib/python3.6/site-packages/pycsp/parallel/ossocket.py
+
+
+
+# link to basic
+http://fedora.wikia.com/wiki/Basic_Commands
