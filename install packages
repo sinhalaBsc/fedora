@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=6ItI793zBgY&t=123s
+
+# to check is there have 'xpackage'(name of package)
+$ rpm -q xpackage
+# is there then it will show package version
+
