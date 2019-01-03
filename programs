@@ -1,0 +1,8 @@
+bzip2 is file file compression program also run windows/linux
+this program in build in program in linux new version.
+but if there any problem you can install by using following command.
+$ sudo dnf install bzip2
+
+to decompress the bz2 compress  file you use following command.
+ bzip2 -d file_name.bz2
+$ bzip2 -d domains.bz2
