@@ -3,3 +3,13 @@ $ top
 
 to reboot the linux system
 $ sudo reboot
+
+remove program from fedora
+$ sudo yum remove pitivi
+if program consist many packages and need remove with all packages
+$ sudo yum remove wine*
+to get list related packages on some application. This help to see if any package did't remove with application.
+rpm -qa | grep wine
+
+to update fedora applications
+$ sudo dnf update
