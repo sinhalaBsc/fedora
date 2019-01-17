@@ -1,2 +1,5 @@
 to show task manager on terminal 
 $ top
+
+to reboot the linux system
+$ sudo reboot
